@@ -32,7 +32,7 @@ The Educational Platform is designed to deliver high-quality online education th
 - **Frontend**: Python, HTML, CSS, 
 - **Backend**: Node.js, Javascript
 - **Database**: mySQL
-- **Authentication**: JWT (JSON Web Tokens)
+- **Authentication**: Clerk Authentication
 - **Deployment**: 
 
 ## Installation
