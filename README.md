@@ -29,11 +29,11 @@ The Educational Platform is designed to deliver high-quality online education th
 
 ## Technologies Used
 
-- **Frontend**: React.js, Redux, HTML, CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Frontend**: Python, HTML, CSS, 
+- **Backend**: Node.js, Javascript
+- **Database**: mySQL
 - **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Docker, Kubernetes, AWS
+- **Deployment**: 
 
 ## Installation
 
@@ -41,5 +41,4 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/educational-platform.git
-   cd educational-platform
+   git clone ....
